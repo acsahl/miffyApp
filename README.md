@@ -8,10 +8,12 @@ MiffyApp is a minimal and aesthetic SwiftUI app featuring a clean login screen a
 🖼️ Swipeable image slider with custom page indicators
 📱 Fully native SwiftUI interface
 📸 Preview
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-16 at 19 26 51](https://github.com/user-attachments/assets/84cdaa22-1269-400f-9bee-1e57772bb25c)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-16 at 19 26 57](https://github.com/user-attachments/assets/86876d35-b7b0-418d-a1ac-22fcabd67f1a)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/84cdaa22-1269-400f-9bee-1e57772bb25c" width="200" />
+  <img src="https://github.com/user-attachments/assets/86876d35-b7b0-418d-a1ac-22fcabd67f1a" width="200" />
+</p>
 
 🚀 Getting Started
 Requirements:
